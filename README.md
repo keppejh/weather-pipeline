@@ -3,7 +3,7 @@
 A lightweight, automated daily intelligence pipeline that fetches weather data, formats it with a stylized cyberpunk theme, and delivers it daily—complete with automated error handling and self-healing alert notifications.
 
 
-![Screenshot of Weather Pipeline[(automated_weather_screenshot.jpg)
+![Screenshot of Weather Pipeline](504.png)
 
 ---
 
