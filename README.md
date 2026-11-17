@@ -4,6 +4,8 @@
 > **Status:** Published and Active  
 > **Development Style:** AI-assisted / "Vibe Coded" low-code automation
 
+![Screenshot](504.png)
+
 ---
 
 ## 🌟 What It Does
